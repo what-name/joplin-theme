@@ -1,4 +1,7 @@
 ## joplin theme
+# what-name changes
+The original theme from Amanda was a bit dark for me on the text. I changed the text colors to be more bright and white, changed the background for darker (and not blueish) colors. Enabled cursor and it's blinking. Just more contrast in general.
+
 # dark mode
 a dark mode theme for Joplin.
 
@@ -7,7 +10,7 @@ Joplin is an open source note taking app. Learn more about [Joplin](http://jopli
 It has been tested on Mac version Joplin 1.0.197 (prod, darwin).
 
 ## Screenshots
-![v0.5.7-updates.png](/screenshots/v0.5.7-updates.png)
+![what-name-1-screenshot](https://github.com/what-name/joplin-theme/blob/master/screenshots/what-name-1.png)
 
 ## 1. Install Font
 
