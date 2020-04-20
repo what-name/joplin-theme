@@ -1,9 +1,11 @@
+/* For styling the rendered Markdown */
+
 /* html-ized markdown */
 /* designed by uxamanda (https://discourse.joplinapp.org/u/uxamanda). latest version https://github.com/amandamcg/joplin-theme */
 :root {
-    --white: #e3e3e3;
-    --dark-white: #EEF0EA;
-    --light-grey: #A3A79F;
+    --white: #ffffff;
+    --dark-white: #e6e6e6;
+    --light-grey: #cccccc;
     --grey: #575856;
     --dark-grey: rgb(51, 51, 51);
     --darker-grey: #1D2024;
@@ -21,9 +23,9 @@
     --base-size-272: 272px;
     --font-sans: "IBM Plex Sans";
     --font-mono: "IBM Plex Mono";
-    --font-weight-light: 200;
+    --font-weight-light: 450;
     --font-weight-base: 300;
-    --font-weight-bold: 500;
+    --font-weight-bold: 600;
     --font-line-height: 1.1em;
 }
 
