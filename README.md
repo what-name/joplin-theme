@@ -1,6 +1,7 @@
 ## joplin theme
 # what-name changes
 The original theme from Amanda was a bit dark for me on the text. I changed the text colors to be more bright and white, changed the background for darker (and not blueish) colors. Enabled cursor and it's blinking. Just more contrast in general.
+Changed the monospace font to Menlo.
 
 # dark mode
 a dark mode theme for Joplin.
