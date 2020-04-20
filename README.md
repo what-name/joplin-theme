@@ -10,9 +10,10 @@ Joplin is an open source note taking app. Learn more about [Joplin](http://jopli
 It has been tested on Mac version Joplin 1.0.2 (prod, darwin).
 
 ## Screenshots
-![what-name-1-screenshot](https://github.com/what-name/joplin-theme/blob/master/screenshots/what-name-1.png)
+![what-name-1-screenshot](https://github.com/what-name/joplin-theme/blob/master/screenshots/what-name-2.png)
 
 ## 1. Install Font
+### what-name: I'm a MacOS user and the font `Menlo`is installed by default. If you're not using MacOS, either install the Menlo font or change in the `userchrome.css`to a monospace font of your choice.
 
 This theme assumes you have IBM Plex Sans and IBM Plex Mono installed on your computer.
 
