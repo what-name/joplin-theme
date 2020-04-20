@@ -7,7 +7,7 @@ a dark mode theme for Joplin.
 
 Joplin is an open source note taking app. Learn more about [Joplin](http://joplinapp.org).
 
-It has been tested on Mac version Joplin 1.0.197 (prod, darwin).
+It has been tested on Mac version Joplin 1.0.2 (prod, darwin).
 
 ## Screenshots
 ![what-name-1-screenshot](https://github.com/what-name/joplin-theme/blob/master/screenshots/what-name-1.png)
